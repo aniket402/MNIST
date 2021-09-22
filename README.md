@@ -21,6 +21,10 @@
 2.  Cost is then calculated as the average of the losses of the entire training set. 
 3.  Adam Optimizer is used to optimize the parameters (weights and biases) to minimise the cost. (Learning rate considered = 0.01)
 4.  Using gradient descent, our model is learning iteratively. With each iteration, the parameters are getting optimized and the cost is reducing. 
-5.  We also used batch gradient descent. We perform iterations in small batches and after each run, the parameters are getting optimized and the cost is reduced. 
+5.  We also used batch gradient descent. We perform iterations in small batches and after each run, the parameters are getting optimized and the cost is reduced.
+
+|COL1|COL2|
+|---|---|
+|FF|DD|
 
 
