@@ -8,14 +8,14 @@
 4.  Each image can be classified into one of the 10 possible outputs (0,1,2,3,4,5,6,7,8,9,10). Hence, it is a multi-classification problem. 
 5.  The output is one-hot encoded.
 
-## Structure of Neural Network
+### Structure of Neural Network
 
 1.  Input layer having 784 input features
 2.  2 hidden layers, each with 256 units and 1 bias. 
 3.  1 output layer with 10 units. 
 4.  Softmax layer - It is used here to scale the output numbers into probabilities (0-1 scale).
 
-## Optimization
+### Optimization
 
 1.  Cross entropy loss function is used to calculate the error for a single training example. 
 2.  Cost is then calculated as the average of the losses of the entire training set. 
