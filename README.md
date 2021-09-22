@@ -23,8 +23,8 @@
 4.  Using gradient descent, our model is learning iteratively. With each iteration, the parameters are getting optimized and the cost is reducing. 
 5.  We also used batch gradient descent. We perform iterations in small batches and after each run, the parameters are getting optimized and the cost is reduced.
 
-|COL1|COL2|
+|MODEL TRAINING - GRADIENT DESCENT|MODEL TRAINING - BATCH GRADIENT DESCENT|
 |---|---|
-|![fig1](https://user-images.githubusercontent.com/57486558/134410265-935a4968-24e1-4266-9c0e-32c66fc0e191.jpg)|DD|
+|![fig1](https://user-images.githubusercontent.com/57486558/134410265-935a4968-24e1-4266-9c0e-32c66fc0e191.jpg)|![fig2](https://user-images.githubusercontent.com/57486558/134410415-4a041269-3c23-4321-b761-e76be332858f.jpg)|
 
 
