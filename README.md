@@ -1,6 +1,6 @@
 ## MNIST
 
-## About the dataset
+### About the dataset
 
 1.  The MNIST dataset is a set of 70k small images of digits handwritten by high school students and employees of US Census bureau. 
 2.  Each image has 784 features.
