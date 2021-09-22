@@ -25,6 +25,6 @@
 
 |COL1|COL2|
 |---|---|
-|FF|DD|
+|![fig1](https://user-images.githubusercontent.com/57486558/134410265-935a4968-24e1-4266-9c0e-32c66fc0e191.jpg)|DD|
 
 
