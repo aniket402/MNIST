@@ -15,17 +15,17 @@
 3.  1 output layer with 10 units. 
 4.  Softmax layer - It is used here to scale the output numbers into probabilities (0-1 scale).
 
-|LAYER|PARAMETERS|
+|Layer|Parameter #|
 |---|---|
-|Layer 1|784 * 256 weights + 256 biases|
-|Layer 2|256 * 256 weights + 256 biases|
-|Output Layer|256 * 10 weights + 10 biases|
+|hidden_1|784 * 256 weights + 256 biases|
+|hidden_2|256 * 256 weights + 256 biases|
+|outputr|256 * 10 weights + 10 biases|
 
 ### Optimization
 
 1.  Cross entropy loss function is used to calculate the error for a single training example. 
 2.  Cost is then calculated as the average of the losses of the entire training set. 
-3.  Adam Optimizer is used to optimize the parameters (weights and biases) to minimise the cost. (Learning rate considered = 0.01)
+3.  Adam optimizer is used to optimize the parameters (weights and biases) to minimise the cost. (Learning rate considered = 0.01)
 4.  Using gradient descent, our model is learning iteratively. With each iteration, the parameters are getting optimized and the cost is reducing. 
 5.  We also used batch gradient descent. We perform iterations in small batches and after each run, the parameters are getting optimized and the cost is reduced.
 
