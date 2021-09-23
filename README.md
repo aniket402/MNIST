@@ -15,6 +15,12 @@
 3.  1 output layer with 10 units. 
 4.  Softmax layer - It is used here to scale the output numbers into probabilities (0-1 scale).
 
+|LAYER|PARAMETERS|
+|---|---|
+|Layer 1|784 * 256 weights + 256 biases|
+|Layer 2|256 * 256 weights + 256 biases|
+|Output Layer|256 * 10 weights + 10 biases|
+
 ### Optimization
 
 1.  Cross entropy loss function is used to calculate the error for a single training example. 
