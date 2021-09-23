@@ -19,7 +19,7 @@
 |---|---|
 |hidden_1|784 * 256 weights + 256 biases|
 |hidden_2|256 * 256 weights + 256 biases|
-|outputr|256 * 10 weights + 10 biases|
+|output|256 * 10 weights + 10 biases|
 
 ### Optimization
 
