@@ -1,4 +1,4 @@
-## Digital Recogniser
+## Digital Recognizer
 
 ### About the dataset
 
