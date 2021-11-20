@@ -1,4 +1,4 @@
-## MNIST
+## Digital Recogniser
 
 ### About the dataset
 
